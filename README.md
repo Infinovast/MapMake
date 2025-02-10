@@ -4,7 +4,7 @@
 
 ## Instructions for use
 
-| Command      | 描述 |
+| Command      | Description |
 |--------------|------|
 | ?            | Get help |
 | generate     | Generate map |
