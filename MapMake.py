@@ -129,7 +129,7 @@ def main():
     set_block = False
     map_data = generate_simplex_noise_map(seed, 41, 3)
     map_size = 41
-    river_count = 3
+    river_count = 5
 
     os.system("title MapMake")  # 更改控制台标题
     print("MapMake [版本 3.1]")
