@@ -88,12 +88,6 @@ def generate_river(map_data):
         main_direction = (-1, 0)  # 主要方向：向左
 
     # 河流生成方向（主要方向 + 随机偏移）
-    # directions = [
-    #     main_direction,  # 主要方向
-    #     (main_direction[0], main_direction[1]),  # 主要方向（重复以增加权重）
-    #     (main_direction[1], main_direction[0]),  # 斜向方向 1
-    #     (-main_direction[1], -main_direction[0]),  # 斜向方向 2
-    # ]
     directions = ([
         main_direction for _ in range(3)]  # 主要方向
     +[
