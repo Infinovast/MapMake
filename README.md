@@ -1,6 +1,6 @@
 # MapMake
 
-**A basic map generator.**
+**A simple pseudo-random map generator utilizing Simplex Noise.**
 
 ## Instructions for use
 
