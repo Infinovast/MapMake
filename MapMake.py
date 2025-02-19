@@ -166,6 +166,8 @@ def main():
                 print(f"河流参数: {river_count}\n")
             case "block":
                 set_block = not set_block
+                os.system("cls")
+                output(map_data, set_block)
                 print(f"方块显示模式: {'开启' if set_block else '关闭'}\n")
             case "map":
                 try:
