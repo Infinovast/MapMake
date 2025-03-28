@@ -4,18 +4,18 @@
 
 ## Instructions for use
 
-| Command      | Description |
-|--------------|------|
-| ?            | Get help |
-| generate     | Generate map |
-| print        | Print map |
-| r            | Generate and print map with random seed (more convenient) |
-| data         | Show current parameters |
-| block        | Toggle "block" display mode |
-| map          | Set map size |
-| seed         | Set seed |
-| river        | Set the number of rivers |
-| quit         | Exit program |
+| Command          | Description |
+| ---------------- | ----------- |
+| **?**            | Get help |
+| **generate**     | Generate map |
+| **print**        | Print map |
+| **r**            | **Generate** 和 **print** map with random seed (more convenient) |
+| **data**         | Show current parameters |
+| **block**        | Toggle "block" display mode |
+| **map**          | Set map size |
+| **seed**         | Set seed |
+| **river**        | Set the number of rivers |
+| **quit**         | Exit program |
 
 ## Sample
 
